@@ -9,7 +9,7 @@ using dio_mvc.Models;
 namespace dio_mvc.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20210317215637_InitialCreate")]
+    [Migration("20210318160727_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
